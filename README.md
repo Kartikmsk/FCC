@@ -11,12 +11,15 @@
 </ul>
 
 <ul>
-<ol>Non-Projects</ol>
+<ol>Non-Profit Projects</ol>
 
+<h3>Categories</h3>
+<hr/ width="50%">
 <ol>Front End</ol>
 <ol>Back End</ol>
 <ol>Full Stack</ol>
 <ul>
+
 
 <h2> Additional Support</h2>
 
