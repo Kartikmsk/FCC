@@ -1,4 +1,4 @@
-<h1>FreeCodeCamp</h1>
+<h1>FreeCodeCamp</h1> <img src="https://github.com/Mskarthi/FCC/blob/img/download.png" alt="FCC">
 <hr/ width="50%">
 <p>To Learn with passion</p>
 
